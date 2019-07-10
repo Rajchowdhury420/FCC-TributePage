@@ -10,15 +10,16 @@ body{
     color: white;
     position: relative;
     text-align: center;
+    padding-top: 50px;
 }
 h1{
-    padding-top:20px;
-    padding-bottom: 0;
+    margin: 0 auto;
     font-size: 2.4em;
     font-family: 'Roboto', sans-serif;
 }
 h4{
     padding-top: 0;
+    margin: 8px auto 32px;
 }
 
 #img-div{
@@ -27,7 +28,7 @@ h4{
     color: black;
     text-align: center;
     width: 98%;
-    left: 1%;
+    margin: 0 auto;
 }
 
 h3{
@@ -39,26 +40,19 @@ h3{
 img{
     position: relative;
     padding: 8px 0px;
-    border: 0;
-    margin: 0;
     width: 80%;
-    height: 60%;
-    /* left: 10%; */
+    margin: 0 auto;
 }
 #img-caption{
-    padding-top: 0;
-    margin: 0;
-    border: 0;
+    margin: 0 auto;
     padding-bottom: 10px
 }
 
 #tribute-info{
     position: relative;
-    left: 4%;
-    right: 4%;
     text-align: left;
     width: 70%;
-    left: 15%;
+    margin: 0 auto;
 }
 
 #tribute-link {
@@ -66,7 +60,7 @@ img{
     padding-bottom: 20px;
     position: relative;
     width: 90%;
-    left: 5%;
+    margin: 0 auto;
 }
 
 a{
